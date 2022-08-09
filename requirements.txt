@@ -3,5 +3,6 @@ numpy
 seaborn
 matplotlib
 sklearn
+scikit-learn==1.0.2
 scipy
 streamlit
